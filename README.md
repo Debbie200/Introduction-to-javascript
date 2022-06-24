@@ -1,0 +1,1 @@
+A javascript project that takes the user's input and prints out what is inputed into the browser
